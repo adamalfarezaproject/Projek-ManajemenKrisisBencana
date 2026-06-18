@@ -1,0 +1,152 @@
+[
+{
+"pertanyaan": "Apa yang harus dilakukan saat gempa bumi terjadi di dalam ruangan?",
+"opsi": [
+"Berlari ke lift",
+"Berlindung di bawah meja",
+"Menyalakan kompor",
+"Membuka jendela"
+],
+"jawaban": "Berlindung di bawah meja"
+},
+{
+"pertanyaan": "Apa penyebab utama tsunami?",
+"opsi": [
+"Hujan deras",
+"Gempa bawah laut",
+"Angin kencang",
+"Kebakaran hutan"
+],
+"jawaban": "Gempa bawah laut"
+},
+{
+"pertanyaan": "Apa yang harus dilakukan jika terjadi banjir?",
+"opsi": [
+"Tetap berada di daerah rendah",
+"Naik ke tempat yang lebih tinggi",
+"Bermain di genangan air",
+"Menyentuh kabel listrik"
+],
+"jawaban": "Naik ke tempat yang lebih tinggi"
+},
+{
+"pertanyaan": "Tanda awal terjadinya longsor adalah?",
+"opsi": [
+"Tanah retak",
+"Pelangi muncul",
+"Langit cerah",
+"Air laut surut"
+],
+"jawaban": "Tanah retak"
+},
+{
+"pertanyaan": "Apa yang harus dilakukan saat terjadi kebakaran kecil di rumah?",
+"opsi": [
+"Menyiram bensin",
+"Menggunakan alat pemadam",
+"Membuka tabung gas",
+"Meninggalkan api tanpa pengawasan"
+],
+"jawaban": "Menggunakan alat pemadam"
+},
+{
+"pertanyaan": "Nomor darurat yang dapat dihubungi saat terjadi bencana adalah?",
+"opsi": [
+"112",
+"9999",
+"555",
+"777"
+],
+"jawaban": "112"
+},
+{
+"pertanyaan": "Apa yang harus dibawa dalam tas siaga bencana?",
+"opsi": [
+"Mainan saja",
+"Dokumen penting dan obat-obatan",
+"Perhiasan",
+"Televisi"
+],
+"jawaban": "Dokumen penting dan obat-obatan"
+},
+{
+"pertanyaan": "Jika mendengar sirene peringatan tsunami, maka harus?",
+"opsi": [
+"Pergi ke pantai",
+"Segera evakuasi ke tempat tinggi",
+"Tetap di rumah",
+"Bermain di laut"
+],
+"jawaban": "Segera evakuasi ke tempat tinggi"
+},
+{
+"pertanyaan": "Apa fungsi jalur evakuasi?",
+"opsi": [
+"Tempat bermain",
+"Jalur menuju lokasi aman",
+"Tempat parkir",
+"Tempat berjualan"
+],
+"jawaban": "Jalur menuju lokasi aman"
+},
+{
+"pertanyaan": "Sebelum musim hujan, saluran air sebaiknya?",
+"opsi": [
+"Ditutup",
+"Dibiarkan tersumbat",
+"Dibersihkan",
+"Dihancurkan"
+],
+"jawaban": "Dibersihkan"
+},
+{
+"pertanyaan": "Apa yang harus dilakukan setelah gempa berhenti?",
+"opsi": [
+"Masuk kembali ke bangunan rusak",
+"Memeriksa kondisi sekitar dengan hati-hati",
+"Menyalakan api",
+"Mengabaikan peringatan"
+],
+"jawaban": "Memeriksa kondisi sekitar dengan hati-hati"
+},
+{
+"pertanyaan": "Bencana yang paling sering dipicu oleh curah hujan tinggi adalah?",
+"opsi": [
+"Tsunami",
+"Longsor",
+"Gempa",
+"Letusan gunung"
+],
+"jawaban": "Longsor"
+},
+{
+"pertanyaan": "Apa yang harus dilakukan jika pakaian terbakar?",
+"opsi": [
+"Berlari cepat",
+"Stop, Drop, and Roll",
+"Masuk ke lift",
+"Menyalakan kipas"
+],
+"jawaban": "Stop, Drop, and Roll"
+},
+{
+"pertanyaan": "Apa tujuan simulasi bencana?",
+"opsi": [
+"Menghibur masyarakat",
+"Melatih kesiapsiagaan",
+"Menambah kepanikan",
+"Menghabiskan waktu"
+],
+"jawaban": "Melatih kesiapsiagaan"
+},
+{
+"pertanyaan": "Siapa yang bertanggung jawab menjaga keselamatan diri saat bencana?",
+"opsi": [
+"Semua orang",
+"Hanya pemerintah",
+"Hanya petugas",
+"Tidak ada"
+],
+"jawaban": "Semua orang"
+}
+]
