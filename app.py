@@ -27,6 +27,14 @@ st.set_page_config(
 load_css()
 
 # ==================================================
+# SESSION MENU
+# ==================================================
+
+if "menu" not in st.session_state:
+
+    st.session_state.menu = "Home"
+
+# ==================================================
 # NAVBAR
 # ==================================================
 
@@ -50,7 +58,13 @@ selected = option_menu(
 
     menu_icon="cast",
 
-    default_index=0,
+
+    default_index=[
+        "Home",
+        "Chatbot",
+        "Kuis",
+        "Tentang Sistem"
+    ].index(st.session_state.menu),
 
     orientation="horizontal",
 
@@ -82,6 +96,8 @@ selected = option_menu(
         }
     }
 )
+
+st.session_state.menu = selected
 
 # ==================================================
 # ROUTING

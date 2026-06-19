@@ -98,9 +98,6 @@ iframe.stCustomComponentV1 {
     background: transparent !important;
 }
 
-
-
-
 /* Hilangkan elemen streamlit */
 
 header[data-testid="stHeader"] {
@@ -210,7 +207,7 @@ ul.nav {
 }
 
 /* =========================================================
-   HALAMAN BERANDA MODERN DARK
+   HALAMAN BERANDA
 ========================================================= */
 
 /* BUTTON BERANDA */

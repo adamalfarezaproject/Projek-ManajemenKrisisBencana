@@ -41,17 +41,25 @@ def tampilkan_beranda():
 
         with tombol1:
 
-            st.button(
+            if st.button(
                 "Mulai Sekarang",
                 use_container_width=True
-            )
+            ):
+
+                st.session_state.menu = "Chatbot"
+
+                st.rerun()
 
         with tombol2:
 
-            st.button(
+            if st.button(
                 "Pelajari Sistem",
                 use_container_width=True
-            )
+            ):
+
+                st.session_state.menu = "Tentang Sistem"
+
+                st.rerun()
 
         st.markdown("<br>", unsafe_allow_html=True)
 
