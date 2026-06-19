@@ -683,11 +683,20 @@ div[data-testid="stElementContainer"] {
     background: #111827 !important;
 }
 
-[data-testid="stChatInput"] textarea {
+[data-testid="stChatInputTextArea"] {
 
     color: #FFFFFF !important;
 
+    -webkit-text-fill-color: #FFFFFF !important;
+
+    caret-color: #FFFFFF !important;
+
     background: transparent !important;
+}
+
+[data-testid="stChatInputTextArea"]::placeholder {
+
+    color: #94A3B8 !important;
 }
 
 [data-testid="stChatInput"] button {
@@ -1251,4 +1260,20 @@ div[role="radiogroup"] label:hover {
     border-radius: 20px;
 
     display: block;
+}
+
+/* FORCE STREAMLIT CLOUD CHAT TEXT */
+
+textarea[data-testid="stChatInputTextArea"] {
+
+    color: #FFFFFF !important;
+
+    -webkit-text-fill-color: #FFFFFF !important;
+
+    opacity: 1 !important;
+}
+
+textarea[data-testid="stChatInputTextArea"]::placeholder {
+
+    color: #94A3B8 !important;
 }
