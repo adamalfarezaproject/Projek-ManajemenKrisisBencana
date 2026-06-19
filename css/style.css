@@ -676,13 +676,9 @@ div[data-testid="column"] {
 
 [data-testid="stChatInputTextArea"] {
 
-    background: #111827 !important;
-
     color: #FFFFFF !important;
 
     -webkit-text-fill-color: #FFFFFF !important;
-
-    caret-color: #FFFFFF !important;
 }
 
 /* baseweb wrapper */
