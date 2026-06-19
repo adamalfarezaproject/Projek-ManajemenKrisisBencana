@@ -462,11 +462,6 @@ div[data-testid="column"] {
     background: transparent !important;
 }
 
-div[data-testid="stElementContainer"] {
-
-    background: transparent !important;
-}
-
 
 /* =========================================================
    #CHATBOT
@@ -661,7 +656,6 @@ div[data-testid="stElementContainer"] {
     margin-bottom: 10px !important;
 }
 
-
 /* INPUT CHAT */
 
 [data-testid="stChatInputContainer"] {
@@ -678,30 +672,38 @@ div[data-testid="stElementContainer"] {
     border-radius: 16px !important;
 }
 
-[data-testid="stChatInput"] {
-
-    background: #111827 !important;
-}
+/* textarea cloud */
 
 [data-testid="stChatInputTextArea"] {
+
+    background: #111827 !important;
 
     color: #FFFFFF !important;
 
     -webkit-text-fill-color: #FFFFFF !important;
 
     caret-color: #FFFFFF !important;
-
-    background: transparent !important;
 }
 
-[data-testid="stChatInputTextArea"]::placeholder {
+/* baseweb wrapper */
 
-    color: #94A3B8 !important;
+[data-baseweb="textarea"] {
+
+    background: #111827 !important;
 }
 
-[data-testid="stChatInput"] button {
+[data-baseweb="base-input"] {
 
-    color: #10B981 !important;
+    background: #111827 !important;
+}
+
+textarea {
+
+    background: #111827 !important;
+
+    color: #FFFFFF !important;
+
+    -webkit-text-fill-color: #FFFFFF !important;
 }
 
 /* =========================================================
@@ -1262,18 +1264,9 @@ div[role="radiogroup"] label:hover {
     display: block;
 }
 
-/* FORCE STREAMLIT CLOUD CHAT TEXT */
-
-textarea[data-testid="stChatInputTextArea"] {
+[data-testid="stChatInputTextArea"] {
 
     color: #FFFFFF !important;
 
     -webkit-text-fill-color: #FFFFFF !important;
-
-    opacity: 1 !important;
-}
-
-textarea[data-testid="stChatInputTextArea"]::placeholder {
-
-    color: #94A3B8 !important;
 }
